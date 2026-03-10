@@ -1,20 +1,18 @@
 ## Hey, I'm Linh
 
-Fullstack developer based in Da Nang, Vietnam. I build production-grade web apps - from database design to deployment.
+Fullstack developer based in Da Nang, Vietnam.
+I build web apps that run in production - from database design to deployment.
 
-### Tech Stack
+### What I work with
 
-**Frontend**: React, Next.js, TypeScript, Tailwind CSS, Framer Motion
-
-**Backend**: Node.js, NestJS, Express, PostgreSQL, Redis, Prisma
-
-**AI**: Gemini API, Multimodal, OCR, Chatbot
-
-**DevOps**: Docker, GitHub Actions, Nginx, VPS, Cloudflare
+**Frontend** - React, Next.js, TypeScript, Tailwind CSS
+**Backend** - Node.js, NestJS, PostgreSQL, Redis, Prisma
+**DevOps** - Docker, GitHub Actions, Nginx, VPS, Cloudflare
+**AI** - Gemini API, OCR, Chatbot
 
 ### Live Projects
 
-| Project | Stack | Link |
+| Project | What it does | Stack |
 |---|---|---|
-| B2B Wholesale Portal | Next.js, NestJS, PostgreSQL, Docker | [hienchina.com](https://hienchina.com) |
-| Real-time Folk Game | React, TypeScript, WebSocket, Redis | [conhonannhonbinhdinh.vn](https://conhonannhonbinhdinh.vn) |
+| [hienchina.com](https://hienchina.com) | B2B wholesale portal - orders, inventory, debt tracking | Next.js, NestJS, PostgreSQL, Docker |
+| [conhonannhonbinhdinh.vn](https://conhonannhonbinhdinh.vn) | Real-time folk game, 300-500 concurrent users | React, TypeScript, WebSocket, Redis |
