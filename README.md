@@ -5,10 +5,10 @@ I build web apps that run in production - from database design to deployment.
 
 ### What I work with
 
-**Frontend** - React, Next.js, TypeScript, Tailwind CSS
-**Backend** - Node.js, NestJS, PostgreSQL, Redis, Prisma
-**DevOps** - Docker, GitHub Actions, Nginx, VPS, Cloudflare
-**AI** - Gemini API, OCR, Chatbot
+- **Frontend** - React, Next.js, TypeScript, Tailwind CSS
+- **Backend** - Node.js, NestJS, PostgreSQL, Redis, Prisma
+- **DevOps** - Docker, GitHub Actions, Nginx, VPS, Cloudflare
+- **AI** - Gemini API, OCR, Chatbot
 
 ### Live Projects
 
