@@ -2,9 +2,9 @@
 
 # Xuan Linh
 
-**Fullstack Developer - Da Nang, Vietnam**
+**Fullstack Developer — Da Nang, Vietnam**
 
-I build web apps that run in production - from database design to deployment.
+I build web apps that run in production — from database design to deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linhnx-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/initforge)
@@ -13,7 +13,7 @@ I build web apps that run in production - from database design to deployment.
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
 <table>
 <tr>
@@ -44,7 +44,6 @@ I build web apps that run in production - from database design to deployment.
 <td>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
@@ -63,7 +62,7 @@ I build web apps that run in production - from database design to deployment.
 
 ---
 
-### Live Projects
+### 🚀 Live Projects
 
 <table>
 <tr>
@@ -71,9 +70,9 @@ I build web apps that run in production - from database design to deployment.
 
 **[hienchina.com](https://hienchina.com)**
 
-B2B wholesale platform - processing real orders and payments daily in production.
+B2B wholesale platform — processing real orders and payments daily in production.
 
-- Decoupled monolith into NestJS API + Next.js frontend - zero deployment failures since migration
+- Decoupled monolith into NestJS API + Next.js frontend — zero deployment failures since migration
 - 9 backend modules: orders, inventory, dealer debt, returns, notifications
 - Custom JWT auth, atomic transactions, role-based access (Admin/Dealer)
 - Automated CI/CD via GitHub Actions to production VPS
@@ -90,7 +89,7 @@ B2B wholesale platform - processing real orders and payments daily in production
 
 **[conhonannhonbinhdinh.vn](https://conhonannhonbinhdinh.vn)**
 
-Real-time multiplayer platform - peak 500+ concurrent connections, live payments via PayOS.
+Real-time multiplayer platform — peak 500+ concurrent connections, live payments via PayOS.
 
 - Atomic transactions + row-level locking to prevent overselling under concurrency
 - Idempotent webhook handlers + 15-min auto-expiry CRON for unpaid orders
